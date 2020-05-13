@@ -7,3 +7,52 @@ body {
   text-align: center;
   background-color: Pink;
 }
+
+h1 {
+  padding: 20px 0px 10px 0px;
+  color: white;
+}
+
+/* mouse over link */
+  h1:hover {
+      color: hotpink;
+    }
+
+a {
+color: #69CBBB;
+text-decoration: none;
+}
+
+/* mouse over link */
+  a:hover {
+      color: hotpink;
+    }
+
+header img {
+  height: 80px;
+}
+
+header {
+  background: white;
+}
+
+img {
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+}
+
+/* When you put a period in front of a CSS declaration, it indicates you are
+creating a new class. We can apply this to div elements to create different
+portfolio entries */
+
+.portfolio-item {
+margin-top: 60px;
+padding: 40px;
+background-color: #f7f7f7;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
