@@ -39,7 +39,7 @@ body {
 }
 
 .container:hover .middle {
-opacity: 1;  
+  opacity: 1;  
 }
 
 .text {
