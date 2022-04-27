@@ -4,6 +4,10 @@ body {
 }
 
 .hero-section {
+  
+}
+
+.row {
   display: flex;
 }
 
