@@ -1,13 +1,18 @@
 body {
   margin: 0;
+  background-color: Black;
 }
 
 .hero-section {
-  background-color: pink;
+  background-color: Pink;
   height: 100px;
   width: 100%;
 }
 
 .container {
   width: 20%;
+}
+
+.container img {
+  width: 100%;
 }
