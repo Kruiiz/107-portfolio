@@ -23,6 +23,15 @@ body {
 
 .middle {
   background-color: Pink;
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  transform: translate( -50%, 50%);
+}
+
+.container:hover .middle {
+opacity: 1;  
 }
 
 .text {
